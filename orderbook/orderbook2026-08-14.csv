@@ -1,3 +1,3 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-HFCL,Sell,223.11,228.0,240.96,199.81
-SUPERHOUSE,Sell,169.52,170.0,186.97,158.48
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-17_DayMaxProfit,2026-08-17_DayMaxLoss,2026-08-17_MaxProfit,2026-08-17_MaxLoss,2026-08-17_MaxDrawdown,2026-08-17_CurrentPnL
+HFCL,Sell,223.11,228.0,240.96,199.81,Open,,,2.36,-1.27,2.36,-1.27,-3.63,1.62
+SUPERHOUSE,Sell,169.52,170.0,186.97,158.48,Open,,,2.67,-3.17,2.67,-3.17,-5.84,0.24
