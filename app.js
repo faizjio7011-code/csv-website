@@ -7,7 +7,7 @@
 const CONFIG = {
   source: 'github', // 'gitlab' | 'github'
   gitlab: { baseUrl: 'https://gitlab.com', projectPath: 'devops26071-group/csv-website', ref: 'main' },
-  github: { owner: 'Ameenrehman', repo: 'csv-website', branch: 'main' },
+  github: { owner: 'faizjio7011-code', repo: 'csv-website', branch: 'main' },
   concurrency: 8,
   cachePrefix: 'sigcache:v1:',
 };
