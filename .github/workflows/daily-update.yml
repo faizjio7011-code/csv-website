@@ -61,8 +61,8 @@ jobs:
           else
             ARGS="${ARGS} --commit --push"
           fi
-          echo "Running: python update_signals.py${ARGS}"
-          python update_signals.py ${ARGS}
+          echo "Running: python update_signals.py --suffix .NS${ARGS}"
+          python update_signals.py --suffix .NS ${ARGS}
         env:
           DATE: ${{ inputs.date }}
           DRY_RUN: ${{ inputs.dry_run }}
