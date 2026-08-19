@@ -17,6 +17,8 @@ on:
       - 'orderbook/**'
   schedule:
     # 11:00 UTC = 16:30 IST. GitHub's scheduler is best-effort and can lag.
+    # Forks: GitHub disables scheduled workflows by default; re-register this
+    # schedule by committing a change to this file on the default branch.
     - cron: '0 11 * * 1-5'
   workflow_dispatch:
     inputs:
