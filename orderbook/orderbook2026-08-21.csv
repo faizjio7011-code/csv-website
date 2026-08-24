@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-24_DayMaxProfit,2026-08-24_DayMaxLoss,2026-08-24_MaxProfit,2026-08-24_MaxLoss,2026-08-24_MaxDrawdown,2026-08-24_CurrentPnL
-KPRMILL,Sell,1151.6,1158.0,1201.11,1052.68,Open,,,3.61,-0.73,3.61,-0.73,-4.34,3.41
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
+KPRMILL,Sell,1151.6,1158.0,1201.11,1052.68
