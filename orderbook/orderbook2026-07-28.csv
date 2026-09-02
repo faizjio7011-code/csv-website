@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-MEIL,Sell,295.45,300.0,326.05,287.9
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-03_DayMaxProfit,2026-08-03_DayMaxLoss,2026-08-03_MaxProfit,2026-08-03_MaxLoss,2026-08-03_MaxDrawdown,2026-08-03_CurrentPnL
+MEIL,Sell,295.45,300.0,326.05,287.9,TP Hit,287.9,2026-08-03,2.56,0.15,2.56,0.15,-2.40,2.56
