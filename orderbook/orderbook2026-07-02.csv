@@ -1,5 +1,5 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-CONFIPET,Sell,77.42,78.4000015258789,84.72,71.99
-JTEKTINDIA,Sell,150.68,155.17116004171487,164.97,129.08
-KSB,Sell,946.2,966.7000122070312,1000.25,892.25
-NELCO,Sell,927.65,939.0,998.75,878.08
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-04_DayMaxProfit,2026-08-04_DayMaxLoss,2026-08-04_MaxProfit,2026-08-04_MaxLoss,2026-08-04_MaxDrawdown,2026-08-04_CurrentPnL,2026-08-05_DayMaxProfit,2026-08-05_DayMaxLoss,2026-08-05_MaxProfit,2026-08-05_MaxLoss,2026-08-05_MaxDrawdown,2026-08-05_CurrentPnL,2026-08-06_DayMaxProfit,2026-08-06_DayMaxLoss,2026-08-06_MaxProfit,2026-08-06_MaxLoss,2026-08-06_MaxDrawdown,2026-08-06_CurrentPnL,2026-08-07_DayMaxProfit,2026-08-07_DayMaxLoss,2026-08-07_MaxProfit,2026-08-07_MaxLoss,2026-08-07_MaxDrawdown,2026-08-07_CurrentPnL,2026-08-10_DayMaxProfit,2026-08-10_DayMaxLoss,2026-08-10_MaxProfit,2026-08-10_MaxLoss,2026-08-10_MaxDrawdown,2026-08-10_CurrentPnL,2026-08-11_DayMaxProfit,2026-08-11_DayMaxLoss,2026-08-11_MaxProfit,2026-08-11_MaxLoss,2026-08-11_MaxDrawdown,2026-08-11_CurrentPnL,2026-08-12_DayMaxProfit,2026-08-12_DayMaxLoss,2026-08-12_MaxProfit,2026-08-12_MaxLoss,2026-08-12_MaxDrawdown,2026-08-12_CurrentPnL,2026-08-13_DayMaxProfit,2026-08-13_DayMaxLoss,2026-08-13_MaxProfit,2026-08-13_MaxLoss,2026-08-13_MaxDrawdown,2026-08-13_CurrentPnL
+CONFIPET,Sell,77.42,78.4000015258789,84.72,71.99,SL Hit,84.79,2026-08-04,-9.52,-9.52,-9.52,-9.52,-9.52,-9.52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JTEKTINDIA,Sell,150.68,155.17116004171487,164.97,129.08,TP Hit,129.08,2026-08-13,7.29,4.96,7.29,4.96,-2.32,6.58,7.01,5.55,7.29,4.96,-2.32,6.54,6.77,5.50,7.29,4.96,-2.32,6.32,8.08,4.57,8.08,4.57,-3.51,7.22,8.08,4.43,8.08,4.43,-3.65,5.35,7.02,4.48,8.08,4.43,-3.65,6.32,8.16,6.21,8.16,4.43,-3.65,7.45,14.34,4.64,14.34,4.43,-9.70,14.34
+KSB,Sell,946.2,966.7000122070312,1000.25,892.25,TP Hit,856,2026-08-04,9.53,9.53,9.53,9.53,0.00,9.53,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+NELCO,Sell,927.65,939.0,998.75,878.08,SL Hit,1007.5,2026-08-04,-8.61,-8.61,-8.61,-8.61,-8.61,-8.61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
