@@ -1,4 +1,4 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate
-GOODLUCK,Sell,469.4,474.75,501.99,443.79,Open,,
-INDOCO,Sell,272.56,273.3599853515625,300.42,228.29,Open,,
-INNOVACAP,Sell,1125.4,1134.0,1202.39,1035.64,Open,,
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-09-04_DayMaxProfit,2026-09-04_DayMaxLoss,2026-09-04_MaxProfit,2026-09-04_MaxLoss,2026-09-04_MaxDrawdown,2026-09-04_CurrentPnL
+GOODLUCK,Sell,469.4,474.75,501.99,443.79,Open,,,0.28,-2.26,0.28,-2.26,-2.54,-0.75
+INDOCO,Sell,272.56,273.3599853515625,300.42,228.29,Open,,,4.39,-0.79,4.39,-0.79,-5.18,3.69
+INNOVACAP,Sell,1125.4,1134.0,1202.39,1035.64,Open,,,0.66,-6.62,0.66,-6.62,-7.28,-4.44
