@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-AEGISLOG,Sell,1341.5,1424.4000244140625,1524.12,1295.43
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-31_DayMaxProfit,2026-08-31_DayMaxLoss,2026-08-31_MaxProfit,2026-08-31_MaxLoss,2026-08-31_MaxDrawdown,2026-08-31_CurrentPnL
+AEGISLOG,Sell,1341.5,1424.4000244140625,1524.12,1295.43,TP Hit,1289.4,2026-08-31,3.88,3.88,3.88,3.88,0.00,3.88

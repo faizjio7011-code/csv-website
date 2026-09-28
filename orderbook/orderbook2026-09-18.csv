@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-ICICIPRULI,Sell,492.0,494.0,515.44,468.13
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-09-21_DayMaxProfit,2026-09-21_DayMaxLoss,2026-09-21_MaxProfit,2026-09-21_MaxLoss,2026-09-21_MaxDrawdown,2026-09-21_CurrentPnL,2026-09-22_DayMaxProfit,2026-09-22_DayMaxLoss,2026-09-22_MaxProfit,2026-09-22_MaxLoss,2026-09-22_MaxDrawdown,2026-09-22_CurrentPnL,2026-09-23_DayMaxProfit,2026-09-23_DayMaxLoss,2026-09-23_MaxProfit,2026-09-23_MaxLoss,2026-09-23_MaxDrawdown,2026-09-23_CurrentPnL,2026-09-24_DayMaxProfit,2026-09-24_DayMaxLoss,2026-09-24_MaxProfit,2026-09-24_MaxLoss,2026-09-24_MaxDrawdown,2026-09-24_CurrentPnL
+ICICIPRULI,Sell,492.0,494.0,515.44,468.13,TP Hit,452,2026-09-24,0.19,-1.63,0.19,-1.63,-1.82,-0.20,1.21,-1.20,1.21,-1.63,-2.41,1.09,2.13,0.09,2.13,-1.63,-2.41,1.52,8.13,8.13,8.13,-1.63,-2.41,8.13

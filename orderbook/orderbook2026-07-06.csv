@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-ROUTE,Sell,543.32,547.8180633621445,574.48,518.55
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-08-31_DayMaxProfit,2026-08-31_DayMaxLoss,2026-08-31_MaxProfit,2026-08-31_MaxLoss,2026-08-31_MaxDrawdown,2026-08-31_CurrentPnL
+ROUTE,Sell,543.32,547.8180633621445,574.48,518.55,TP Hit,507.25,2026-08-31,6.64,6.64,6.64,6.64,0.00,6.64
