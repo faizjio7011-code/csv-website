@@ -1,2 +1,2 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate
-FIVESTAR,Buy,516.85,495.05,471.45,527.85,Open,,
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-01_DayMaxProfit,2026-10-01_DayMaxLoss,2026-10-01_MaxProfit,2026-10-01_MaxLoss,2026-10-01_MaxDrawdown,2026-10-01_CurrentPnL
+FIVESTAR,Buy,516.85,495.05,471.45,527.85,Open,,,-0.65,-3.60,-0.65,-3.60,-3.60,-2.05
