@@ -1,4 +1,4 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-16_DayMaxProfit,2026-10-16_DayMaxLoss,2026-10-16_MaxProfit,2026-10-16_MaxLoss,2026-10-16_MaxDrawdown,2026-10-16_CurrentPnL
-EXCELSOFT,Sell,83.43,86.5,90.39,79.28,Open,,,0.52,-3.01,0.52,-3.01,-3.52,-1.79
-IKIO,Sell,181.71,185.52999877929688,201.13,180.9,TP Hit,179.8,2026-10-16,1.05,1.05,1.05,1.05,0.00,1.05
-STYLEBAAZA,Sell,384.05,396.0,423.1,367.02,Open,,,0.00,-8.50,0.00,-8.50,-8.50,-4.02
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-16_DayMaxProfit,2026-10-16_DayMaxLoss,2026-10-16_MaxProfit,2026-10-16_MaxLoss,2026-10-16_MaxDrawdown,2026-10-16_CurrentPnL,2026-10-19_DayMaxProfit,2026-10-19_DayMaxLoss,2026-10-19_MaxProfit,2026-10-19_MaxLoss,2026-10-19_MaxDrawdown,2026-10-19_CurrentPnL
+EXCELSOFT,Sell,83.43,86.5,90.39,79.28,Open,,,0.52,-3.01,0.52,-3.01,-3.52,-1.79,0.60,-3.52,0.60,-3.52,-4.12,-1.39
+IKIO,Sell,181.71,185.52999877929688,201.13,180.9,TP Hit,179.8,2026-10-16,1.05,1.05,1.05,1.05,0.00,1.05,,,,,,
+STYLEBAAZA,Sell,384.05,396.0,423.1,367.02,Open,,,0.00,-8.50,0.00,-8.50,-8.50,-4.02,-1.47,-4.01,0.00,-8.50,-8.50,-2.27
