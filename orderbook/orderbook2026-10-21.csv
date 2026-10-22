@@ -1,3 +1,3 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate
-FAZE3Q,Sell,431.85,448.75,485.05,405.88,Open,,
-IXIGO,Sell,148.48,157.25,173.56,143.23,Open,,
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-22_DayMaxProfit,2026-10-22_DayMaxLoss,2026-10-22_MaxProfit,2026-10-22_MaxLoss,2026-10-22_MaxDrawdown,2026-10-22_CurrentPnL
+FAZE3Q,Sell,431.85,448.75,485.05,405.88,Open,,,2.70,-2.06,2.70,-2.06,-4.76,0.57
+IXIGO,Sell,148.48,157.25,173.56,143.23,TP Hit,143.23,2026-10-22,3.54,-1.70,3.54,-1.70,-5.23,3.54

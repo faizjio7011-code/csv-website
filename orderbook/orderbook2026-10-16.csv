@@ -1,4 +1,4 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-19_DayMaxProfit,2026-10-19_DayMaxLoss,2026-10-19_MaxProfit,2026-10-19_MaxLoss,2026-10-19_MaxDrawdown,2026-10-19_CurrentPnL,2026-10-21_DayMaxProfit,2026-10-21_DayMaxLoss,2026-10-21_MaxProfit,2026-10-21_MaxLoss,2026-10-21_MaxDrawdown,2026-10-21_CurrentPnL
-QUADFUTURE,Buy,453.2,452.9,417.32,524.62,Open,,,0.86,-3.57,0.86,-3.57,-4.44,-2.36,-0.77,-6.38,0.86,-6.38,-7.24,-5.22
-SHILPAMED,Buy,937.6,920.0,862.77,1027.76,SL Hit,862.77,2026-10-19,-1.89,-7.98,-1.89,-7.98,-7.98,-7.98,,,,,,
-TECHNOE,Buy,946.6,943.0,901.89,1014.69,SL Hit,901.89,2026-10-21,0.57,-1.04,0.57,-1.04,-1.61,-0.70,-0.34,-4.72,0.57,-4.72,-5.29,-4.72
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-19_DayMaxProfit,2026-10-19_DayMaxLoss,2026-10-19_MaxProfit,2026-10-19_MaxLoss,2026-10-19_MaxDrawdown,2026-10-19_CurrentPnL,2026-10-21_DayMaxProfit,2026-10-21_DayMaxLoss,2026-10-21_MaxProfit,2026-10-21_MaxLoss,2026-10-21_MaxDrawdown,2026-10-21_CurrentPnL,2026-10-22_DayMaxProfit,2026-10-22_DayMaxLoss,2026-10-22_MaxProfit,2026-10-22_MaxLoss,2026-10-22_MaxDrawdown,2026-10-22_CurrentPnL
+QUADFUTURE,Buy,453.2,452.9,417.32,524.62,SL Hit,417.32,2026-10-22,0.86,-3.57,0.86,-3.57,-4.44,-2.36,-0.77,-6.38,0.86,-6.38,-7.24,-5.22,-1.81,-7.92,0.86,-7.92,-8.78,-7.92
+SHILPAMED,Buy,937.6,920.0,862.77,1027.76,SL Hit,862.77,2026-10-19,-1.89,-7.98,-1.89,-7.98,-7.98,-7.98,,,,,,,,,,,,
+TECHNOE,Buy,946.6,943.0,901.89,1014.69,SL Hit,901.89,2026-10-21,0.57,-1.04,0.57,-1.04,-1.61,-0.70,-0.34,-4.72,0.57,-4.72,-5.29,-4.72,,,,,,
