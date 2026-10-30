@@ -1,4 +1,4 @@
-Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice
-FIEMIND,Buy,1699.9,1682.8,1585.68,1882.5
-NILE,Buy,1358.9,1277.4,1130.68,1338.94
-PNGSREVA,Buy,583.6,555.5,493.32,683.04
+Symbol,Buy/Sell,CBT,Entry,Stoploss,TargetPrice,Status,ExitPrice,ExitDate,2026-10-28_DayMaxProfit,2026-10-28_DayMaxLoss,2026-10-28_MaxProfit,2026-10-28_MaxLoss,2026-10-28_MaxDrawdown,2026-10-28_CurrentPnL,2026-10-29_DayMaxProfit,2026-10-29_DayMaxLoss,2026-10-29_MaxProfit,2026-10-29_MaxLoss,2026-10-29_MaxDrawdown,2026-10-29_CurrentPnL,2026-10-30_DayMaxProfit,2026-10-30_DayMaxLoss,2026-10-30_MaxProfit,2026-10-30_MaxLoss,2026-10-30_MaxDrawdown,2026-10-30_CurrentPnL
+FIEMIND,Buy,1699.9,1682.8,1585.68,1882.5,Open,,,0.28,-3.18,0.28,-3.18,-3.46,-2.09,1.42,-3.41,1.42,-3.41,-4.82,0.98,1.10,-1.46,1.42,-3.41,-4.82,-0.44
+NILE,Buy,1358.9,1277.4,1130.68,1338.94,TP Hit,1350,2026-10-28,-0.65,-0.65,-0.65,-0.65,-0.65,-0.65,,,,,,,,,,,,
+PNGSREVA,Buy,583.6,555.5,493.32,683.04,TP Hit,683.04,2026-10-28,17.04,-0.19,17.04,-0.19,-17.23,17.04,,,,,,,,,,,,
